@@ -1,0 +1,224 @@
+C:\Users\jujoc\source\repos\Back\Back\bin\mongocrypt.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Back.dll.config
+C:\Users\jujoc\source\repos\Back\Back\bin\Back.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Back.pdb
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csc.exe
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csc.exe.config
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csc.rsp
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csi.exe
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csi.exe.config
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\csi.rsp
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.AppContext.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Console.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.IO.Compression.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Net.Http.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.ValueTuple.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\vbc.exe
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\vbc.exe.config
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\vbc.rsp
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\VBCSCompiler.exe
+C:\Users\jujoc\source\repos\Back\Back\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.Core.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.SecurityToken.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\DnsClient.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Win32.Registry.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Bson.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Driver.Core.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Driver.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Libmongocrypt.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Newtonsoft.Json.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\SharpCompress.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\Snappier.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Buffers.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Memory.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Net.Http.Formatting.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Numerics.Vectors.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Security.AccessControl.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Security.Principal.Windows.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Text.Encoding.CodePages.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Web.Http.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Web.Http.WebHost.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\ZstdSharp.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.Core.pdb
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.Core.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.SecurityToken.pdb
+C:\Users\jujoc\source\repos\Back\Back\bin\AWSSDK.SecurityToken.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\DnsClient.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.Win32.Registry.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Bson.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Driver.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\MongoDB.Driver.Core.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Snappier.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Buffers.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Memory.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Numerics.Vectors.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Security.AccessControl.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Security.Principal.Windows.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Text.Encoding.CodePages.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Newtonsoft.Json.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Net.Http.Formatting.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Web.Http.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\System.Web.Http.WebHost.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jujoc\source\repos\Back\Back\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\es\System.Web.Http.resources.dll
+C:\Users\jujoc\source\repos\Back\Back\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\jujoc\source\repos\Back\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\jujoc\source\repos\Back\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\jujoc\source\repos\Back\Back\obj\Debug\Back.csproj.CopyComplete
+C:\Users\jujoc\source\repos\Back\Back\obj\Debug\Back.dll
+C:\Users\jujoc\source\repos\Back\Back\obj\Debug\Back.pdb
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\mongocrypt.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Back.dll.config
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Back.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Back.pdb
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csc.exe
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csc.exe.config
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csc.rsp
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csi.exe
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csi.exe.config
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\csi.rsp
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.AppContext.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Console.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.IO.Compression.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Net.Http.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Net.Sockets.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.ValueTuple.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Xml.XPath.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\vbc.exe
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\vbc.exe.config
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\vbc.rsp
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\VBCSCompiler.exe
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.Core.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.SecurityToken.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\DnsClient.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Win32.Registry.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Bson.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Driver.Core.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Driver.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Libmongocrypt.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Newtonsoft.Json.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\SharpCompress.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Snappier.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Buffers.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Memory.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Net.Http.Formatting.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Numerics.Vectors.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Security.AccessControl.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Security.Principal.Windows.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Text.Encoding.CodePages.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Web.Http.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Web.Http.WebHost.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\ZstdSharp.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.Core.pdb
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.Core.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.SecurityToken.pdb
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\AWSSDK.SecurityToken.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\DnsClient.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.Win32.Registry.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Bson.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Driver.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\MongoDB.Driver.Core.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Snappier.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Buffers.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Memory.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Numerics.Vectors.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Security.AccessControl.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Security.Principal.Windows.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Text.Encoding.CodePages.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Newtonsoft.Json.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Net.Http.Formatting.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Web.Http.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\System.Web.Http.WebHost.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\es\System.Web.Http.resources.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\obj\Debug\Back.csproj.CopyComplete
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\obj\Debug\Back.dll
+C:\Users\José Recinos\Desktop\ProyectoFinalMovies\Back\Back\obj\Debug\Back.pdb
