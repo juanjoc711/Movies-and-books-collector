@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65782e28128e6a3060672215"
+  },
+  "Title": "To Kill a Mockingbird",
+  "Author": "Harper Lee",
+  "Year": 1960
+},
+{
+  "_id": {
+    "$oid": "65782e3b128e6a3060672217"
+  },
+  "Title": "1984",
+  "Author": "George Orwell",
+  "Year": 1949
+},
+{
+  "_id": {
+    "$oid": "65782e43128e6a3060672219"
+  },
+  "Title": "The Great Gatsby",
+  "Author": "F. Scott Fitzgerald",
+  "Year": 1925
+},
+{
+  "_id": {
+    "$oid": "65782e4d128e6a306067221b"
+  },
+  "Title": "The Catcher in the Rye",
+  "Author": "J.D. Salinger",
+  "Year": 1951
+},
+{
+  "_id": {
+    "$oid": "65782e52128e6a306067221d"
+  },
+  "Title": "Pride and Prejudice",
+  "Author": "Jane Austen",
+  "Year": 1813
+},
+{
+  "_id": {
+    "$oid": "65782e58128e6a306067221f"
+  },
+  "Title": "To Kill a Mockingbird",
+  "Author": "Harper Lee",
+  "Year": 1960
+},
+{
+  "_id": {
+    "$oid": "65782e5e128e6a3060672221"
+  },
+  "Title": "1984",
+  "Author": "George Orwell",
+  "Year": 1949
+},
+{
+  "_id": {
+    "$oid": "65782e63128e6a3060672223"
+  },
+  "Title": "The Great Gatsby",
+  "Author": "F. Scott Fitzgerald",
+  "Year": 1925
+},
+{
+  "_id": {
+    "$oid": "65782e6a128e6a3060672225"
+  },
+  "Title": "The Catcher in the Rye",
+  "Author": "J.D. Salinger",
+  "Year": 1951
+},
+{
+  "_id": {
+    "$oid": "65782e70128e6a3060672227"
+  },
+  "Title": "Pride and Prejudice",
+  "Author": "Jane Austen",
+  "Year": 1813
+},
+{
+  "_id": {
+    "$oid": "65782e76128e6a3060672229"
+  },
+  "Title": "To Kill a Mockingbird",
+  "Author": "Harper Lee",
+  "Year": 1960
+},
+{
+  "_id": {
+    "$oid": "65782e7c128e6a306067222b"
+  },
+  "Title": "1984",
+  "Author": "George Orwell",
+  "Year": 1949
+},
+{
+  "_id": {
+    "$oid": "65782e83128e6a306067222d"
+  },
+  "Title": "The Great Gatsby",
+  "Author": "F. Scott Fitzgerald",
+  "Year": 1925
+},
+{
+  "_id": {
+    "$oid": "65782e8a128e6a306067222f"
+  },
+  "Title": "The Catcher in the Rye",
+  "Author": "J.D. Salinger",
+  "Year": 1951
+},
+{
+  "_id": {
+    "$oid": "65782e90128e6a3060672231"
+  },
+  "Title": "Pride and Prejudice",
+  "Author": "Jane Austen",
+  "Year": 1813
+}]
